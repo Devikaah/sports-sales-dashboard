@@ -12,4 +12,4 @@ Interactive dashboard analyzing $22M+ in sports sales revenue across regions, br
 - Region-wise and brand-wise performance breakdown
 
 ## Screenshot
-![Dashboard](sports-dashboard.png)
+![Dashboard](sportsSalesdashboard)
